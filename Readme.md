@@ -1,6 +1,6 @@
-___PIAIC Assignment 3 of File Handling
+   PIAIC Assignment 3 of File Handling
 
-___________Includes:
+    Includes:
 
 1) File Handling (Reading file and telling how much lines are there, etc) {Open .ipynb file to see the code with output}
 
